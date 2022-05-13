@@ -1,1 +1,1 @@
-autocmd BufRead,BufNewFile *.kql filetype=kql
+autocmd BufRead,BufNewFile *.kql set filetype=kql
